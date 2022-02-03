@@ -1,5 +1,7 @@
 ### Hi there 👋 My Name is Renuka Alai
 
+I am currently working as a Software Development Engineer at Ignite Solutions. I come with an extensive experience of working with different technologies including Web Development, Data Science, Machine Learning and Deep Learning.
+
 I am Machine Learning Engineer
 A highly skilled , competent and diligent individual is seeking an opportunity to establish a career as Data Science .Certified with data scientist from DIGITAL NEST,Hyderabad .strong willingness to exhibit my proficiency in Analytical, Statistics and Machine Learning models in the professional environment.
 
