@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 ## Contacts
 
-[![LinkedIn][linkedin-shield]][]
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/renukaalai/]
 
 
 ## Programming Languages 👨‍💻
