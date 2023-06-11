@@ -1,35 +1,14 @@
-# Hi there, I'm Renuka Alai! 👋
+<h1>Hi There, I'm Renuka Alai <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a Software Engineer specializing in Artificial Intelligence and Machine Learning. I'm passionate about solving complex problems and building intelligent systems that can make a positive impact. 
+I'm a **Software Engineer (AI/ML)** working at [Indianic](https://www.indianic.com/). My day to day work revolves around building Machine Learning models for various interesting problems and deploying them to production, at scale. I'm open to collaborate on interesting projects.
 
-## 🔭 Currently Working On
+Here are some ideas to get you started:
 
-I am currently working on various Data Science projects, where I apply machine learning techniques to extract insights and solve real-world problems. I am particularly interested in Computer Vision and exploring its applications in different domains.
-
-## 🌱 Learning
-
-I am continuously learning and expanding my knowledge in Computer Vision, as it is a rapidly evolving field with immense potential. I am exploring advanced techniques and frameworks like OpenCV to develop robust and efficient computer vision models.
-
-## 💬 Ask Me About
-
-I have expertise in Machine Learning, Statistics and Probability, Natural Language Processing (NLP), and OpenCV. If you have any questions or need assistance related to these areas, feel free to reach out to me.
-
-## 📫 How to Reach Me
-
-You can reach me via email at renukaalai@gmail.com. I'm always open to exciting collaborations, discussions, and exploring new opportunities.
-
-## 💼 Professional Experience
-
-- Software Engineer (AI/ML) at [Indianic](https://www.indianic.com/) - [Dates of Employment]
-
-## 🌟 Fun Fact
-
-In my free time, I enjoy reading books, going on nature walks, and experimenting with new recipes in the kitchen.
-
-Thank you for visiting my GitHub profile! Feel free to explore my repositories and don't hesitate to connect with me. I look forward to engaging with the vibrant GitHub community!
-
-
-
+- 🔭 I’m currently working on ...Data Science
+- 🌱 I’m currently learning ...Computer Vision 
+- 💬 Ask me about ...Machine Learning, Statistics and Probability, NLP, OpenCV
+- 📫 How to reach me: ...renukaalai@gmail.com
+-->
 ## Skill Set :muscle:
 
 These are some of the major technologies that I use or have worked on in the past:
