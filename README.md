@@ -4,9 +4,21 @@ I'm a **Software Engineer (AI/ML)** working at [Indianic](https://www.indianic.c
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...Data Science projects that involve Natural Language Processing (NLP).
-- 🌱 I’m currently learning ...Computer Vision techniques to expand my skillset. 
-- 💬 Ask me about ...Machine Learning, Statistics and Probability, NLP, OpenCV
+## 🔭 Currently Working On
+
+- Data Science projects to solve real-world problems.
+
+## 🌱 Currently Learning
+
+- Exploring Computer Vision techniques for image analysis.
+- 
+## 💬 Ask Me About
+
+- Machine Learning
+- Statistics and Probability
+- Natural Language Processing (NLP)
+- OpenCV
+  
 - 📫 How to reach me: ...[Email](mailto:renukaalai@gmail.com) | [LinkedIn](https://www.linkedin.com/in/renukaalai/)
 -->
 ## Skill Set :muscle:
