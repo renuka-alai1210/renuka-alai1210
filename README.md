@@ -2,7 +2,6 @@
 
 I'm a **Software Engineer (AI/ML)** working at [Indianic](https://www.indianic.com/). My day to day work revolves around building Machine Learning models for various interesting problems and deploying them to production, at scale. I'm open to collaborate on interesting projects.
 
-Here are some ideas to get you started:
 
 ## 🔭 Currently Working On
 
