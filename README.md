@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 ## 🌱 Currently Learning
 
 - Exploring Computer Vision techniques for image analysis.
-- 
+  
 ## 💬 Ask Me About
 
 - Machine Learning
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ## 📫 How to reach me: 
 - [Email](mailto:renukaalai@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/renukaalai/)
--->
+
 ## Skill Set :muscle:
 
 - Python: ⭐⭐⭐⭐⭐
