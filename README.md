@@ -11,6 +11,12 @@ Here are some ideas to get you started:
 -->
 ## Skill Set :muscle:
 
+- Python: ⭐⭐⭐⭐⭐
+- Machine Learning: ⭐⭐⭐⭐
+- Deep Learning: ⭐⭐⭐⭐
+- Data Analysis: ⭐⭐⭐
+- NLP: ⭐⭐⭐⭐
+- Computer Vision: ⭐⭐⭐
 These are some of the major technologies that I use or have worked on in the past:
 
 **Programming Languages**
