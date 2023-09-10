@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - Statistics and Probability
 - Natural Language Processing (NLP)
 - OpenCV
+
   
 - 📫 How to reach me: ...[Email](mailto:renukaalai@gmail.com) | [LinkedIn](https://www.linkedin.com/in/renukaalai/)
 -->
