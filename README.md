@@ -20,8 +20,10 @@ Here are some ideas to get you started:
 
 ## 📝 Blog Posts
 
-- [Introduction to Computer Vision](https://medium.com/@renukaalai/machine-learning-algorithms-with-their-pros-and-cons-6e26be126394)
-- [The Power of NLP in Text Analysis](https://example.com/blog/nlp-power)
+- [How to choose the right activation function for neural networks](https://medium.com/@renukaalai/how-to-choose-the-right-activation-function-for-neural-networks-c8f6b4fbd147)
+- [Easy Methods to Tokenize Your Data](https://medium.com/@renukaalai/easy-methods-to-tokenize-your-data-833109296345)
+- [Machine Learning Algorithms with their Pros and Cons](https://medium.com/@renukaalai/machine-learning-algorithms-with-their-pros-and-cons-6e26be126394)
+
 These are some of the major technologies that I use or have worked on in the past:
 
 **Programming Languages**
