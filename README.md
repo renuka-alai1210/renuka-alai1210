@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 - OpenCV
 
   
-- 📫 How to reach me: ...[Email](mailto:renukaalai@gmail.com) | [LinkedIn](https://www.linkedin.com/in/renukaalai/)
+## 📫 How to reach me: 
+- [Email](mailto:renukaalai@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/renukaalai/)
 -->
 ## Skill Set :muscle:
 
