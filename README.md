@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...Data Science projects that involve Natural Language Processing (NLP).
 - 🌱 I’m currently learning ...Computer Vision techniques to expand my skillset. 
 - 💬 Ask me about ...Machine Learning, Statistics and Probability, NLP, OpenCV
-- 📫 How to reach me: ...renukaalai@gmail.com
+- 📫 How to reach me: ...renukaalai@gmail.com | [LinkedIn](https://www.linkedin.com/in/renukaalai/)
 -->
 ## Skill Set :muscle:
 
