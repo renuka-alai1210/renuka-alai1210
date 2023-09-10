@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 - Data Analysis: ⭐⭐⭐
 - NLP: ⭐⭐⭐⭐
 - Computer Vision: ⭐⭐⭐
+
+## 📝 Blog Posts
+
+- [Introduction to Computer Vision](https://medium.com/@renukaalai/machine-learning-algorithms-with-their-pros-and-cons-6e26be126394)
+- [The Power of NLP in Text Analysis](https://example.com/blog/nlp-power)
 These are some of the major technologies that I use or have worked on in the past:
 
 **Programming Languages**
