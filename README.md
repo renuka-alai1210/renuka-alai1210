@@ -33,7 +33,7 @@ I'm a **Software Engineer (AI/ML)** working at [Indianic](https://www.indianic.c
 - Computer Vision: ⭐⭐⭐
 
 ## 📝 Blog Posts
-
+- [Automated exploratory data analysis (autoEDA)](https://medium.com/@renukaalai/automated-exploratory-data-analysis-autoeda-41378e8d3533)
 - [How to choose the right activation function for neural networks](https://medium.com/@renukaalai/how-to-choose-the-right-activation-function-for-neural-networks-c8f6b4fbd147)
 - [Easy Methods to Tokenize Your Data](https://medium.com/@renukaalai/easy-methods-to-tokenize-your-data-833109296345)
 - [Machine Learning Algorithms with their Pros and Cons](https://medium.com/@renukaalai/machine-learning-algorithms-with-their-pros-and-cons-6e26be126394)
