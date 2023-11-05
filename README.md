@@ -32,6 +32,7 @@ I'm a **Software Engineer (AI/ML)** working at [Indianic](https://www.indianic.c
 - NLP: ⭐⭐⭐⭐
 - Computer Vision: ⭐⭐⭐
 - LLM: ⭐⭐⭐
+- Django : ⭐⭐
 
 
 ## 📝 Blog Posts
