@@ -1,6 +1,6 @@
 <h1>Hi There, I'm Renuka Alai <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a **Software Engineer (AI/ML)** working at [Indianic](https://www.indianic.com/). My day to day work revolves around building Machine Learning models for various interesting problems and deploying them to production, at scale. I'm open to collaborate on interesting projects.
+I'm a **Software Engineer (AI/ML)** working at [Indianic](https://www.indianic.com/). My day to day work revolves around building AI/ML models for various interesting problems and deploying them to production, at scale. I'm open to collaborate on interesting projects.
 
 
 ## 🔭 Currently Working On
@@ -9,7 +9,7 @@ I'm a **Software Engineer (AI/ML)** working at [Indianic](https://www.indianic.c
 
 ## 🌱 Currently Learning
 
-- Exploring Computer Vision techniques for image analysis.
+- Exploring Generative AI with LLM Model.
   
 ## 💬 Ask Me About
 
@@ -31,6 +31,8 @@ I'm a **Software Engineer (AI/ML)** working at [Indianic](https://www.indianic.c
 - Data Analysis: ⭐⭐⭐
 - NLP: ⭐⭐⭐⭐
 - Computer Vision: ⭐⭐⭐
+- LLM: ⭐⭐⭐
+
 
 ## 📝 Blog Posts
 - [Automated exploratory data analysis (autoEDA)](https://medium.com/@renukaalai/automated-exploratory-data-analysis-autoeda-41378e8d3533)
