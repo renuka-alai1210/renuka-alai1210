@@ -36,6 +36,7 @@ I'm a **Software Engineer (AI/ML)** working at [Indianic](https://www.indianic.c
 
 
 ## 📝 Blog Posts
+- [Python Magic in Data Science: A Step-by-Step Exploration](https://medium.com/@renukaalai/python-magic-in-data-science-a-step-by-step-exploration-9c40653876c9)
 - [Automated exploratory data analysis (autoEDA)](https://medium.com/@renukaalai/automated-exploratory-data-analysis-autoeda-41378e8d3533)
 - [How to choose the right activation function for neural networks](https://medium.com/@renukaalai/how-to-choose-the-right-activation-function-for-neural-networks-c8f6b4fbd147)
 - [Easy Methods to Tokenize Your Data](https://medium.com/@renukaalai/easy-methods-to-tokenize-your-data-833109296345)
