@@ -37,7 +37,7 @@ I'm a **Software Engineer (AI/ML)** working at [Indianic](https://www.indianic.c
 
 ## 📝 Blog Posts
 - [Unveiling the LLM Landscape: A Guide to Different Families](https://medium.com/@renukaalai/unveiling-the-llm-landscape-a-guide-to-different-families-84a6098f0446)
-- [Python Magic in Data Science: A Step-by-Step Exploration](https://medium.com/@renukaalai/python-magic-in-data-science-a-step-by-step-exploration-9c40653876c9)
+- [The Power and Potential of Generative AI: Shaping the Future Today](https://medium.com/@renukaalai/the-power-and-potential-of-generative-ai-shaping-the-future-today-b6893903a5e0)
 - [Python Magic in Data Science: A Step-by-Step Exploration](https://medium.com/@renukaalai/python-magic-in-data-science-a-step-by-step-exploration-9c40653876c9)
 - [Automated exploratory data analysis (autoEDA)](https://medium.com/@renukaalai/automated-exploratory-data-analysis-autoeda-41378e8d3533)
 - [How to choose the right activation function for neural networks](https://medium.com/@renukaalai/how-to-choose-the-right-activation-function-for-neural-networks-c8f6b4fbd147)
