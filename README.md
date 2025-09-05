@@ -1,6 +1,8 @@
-<h1>Hi There, I'm Renuka Alai <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+### Hi There, I'm Renuka Alai 👋  
 
-I'm a **Software Engineer (AI/ML)** working at [Indianic](https://www.indianic.com/). My day to day work revolves around building AI/ML models for various interesting problems and deploying them to production, at scale. I'm open to collaborate on interesting projects.
+🚀 **AI/ML Engineer | Generative AI | NLP | Data Science**  
+Currently working at [Pacific Group of Companies]([https://www.indianic.com/](https://pacificgroupcompanies.com/)), with 4+ years of experience building scalable AI systems.  
+I specialize in **Generative AI, NLP, and Multi-Agent Systems**, solving real-world problems with intelligent automation.  
 
 
 ## 🔭 Currently Working On
@@ -18,7 +20,11 @@ I'm a **Software Engineer (AI/ML)** working at [Indianic](https://www.indianic.c
 - Natural Language Processing (NLP)
 - OpenCV
 
-  
+## 🚀 Featured Projects
+- **[Financial Workflow AI Assistant](#)** – Multi-agent chatbot using Grok (xAI) + OpenAI APIs, SQL agents for NL queries, and bill-duplication detection.
+- **[NewRA - AI Chatbot](#)** – AI-powered chatbot using GPT-3 embeddings, Pinecone DB, and RASA for interactive conversations.
+- **[Flirty40’s Matchmaking App](#)** – AI-driven matchmaking platform with smart profiling, recommendations, and real-time chat.
+
 ## 📫 How to reach me: 
 - [Email](mailto:renukaalai@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/renukaalai/)
@@ -43,4 +49,9 @@ I'm a **Software Engineer (AI/ML)** working at [Indianic](https://www.indianic.c
 - [How to choose the right activation function for neural networks](https://medium.com/@renukaalai/how-to-choose-the-right-activation-function-for-neural-networks-c8f6b4fbd147)
 - [Easy Methods to Tokenize Your Data](https://medium.com/@renukaalai/easy-methods-to-tokenize-your-data-833109296345)
 - [Machine Learning Algorithms with their Pros and Cons](https://medium.com/@renukaalai/machine-learning-algorithms-with-their-pros-and-cons-6e26be126394)
+
+## 🏆 Achievements
+- 🥇 1st Prize – Hackathon (SalesAI) @ IndiaNIC, 2023
+- 🥉 2nd Runner-up – Hackathon (AutoGen) @ GS Lab, 2022
+
 
