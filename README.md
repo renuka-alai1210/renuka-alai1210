@@ -25,6 +25,16 @@ I specialize in **Generative AI, NLP, and Multi-Agent Systems**, solving real-wo
 - **[NewRA - AI Chatbot](#)** – AI-powered chatbot using GPT-3 embeddings, Pinecone DB, and RASA for interactive conversations.
 - **[Flirty40’s Matchmaking App](#)** – AI-driven matchmaking platform with smart profiling, recommendations, and real-time chat.
 
+
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFCA28?style=flat&logo=huggingface&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+
 ## 📫 How to reach me: 
 - [Email](mailto:renukaalai@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/renukaalai/)
