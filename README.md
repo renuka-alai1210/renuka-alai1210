@@ -26,29 +26,22 @@ I specialize in **Generative AI, NLP, and Multi-Agent Systems**, solving real-wo
 - **[Flirty40’s Matchmaking App](#)** – AI-driven matchmaking platform with smart profiling, recommendations, and real-time chat.
 
 
-## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFCA28?style=flat&logo=huggingface&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+## 🛠️ Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-02569B?style=for-the-badge&logo=pandas&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge&logo=OpenAI&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-2C3E50?style=for-the-badge&logo=opencv&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
 
 
 ## 📫 How to reach me: 
 - [Email](mailto:renukaalai@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/renukaalai/)
-
-## Skill Set :muscle:
-
-- Python: ⭐⭐⭐⭐⭐
-- Machine Learning: ⭐⭐⭐⭐
-- Deep Learning: ⭐⭐⭐⭐
-- Data Analysis: ⭐⭐⭐
-- NLP: ⭐⭐⭐⭐
-- Computer Vision: ⭐⭐⭐
-- LLM: ⭐⭐⭐
-- Django : ⭐⭐
 
 
 ## 📝 Blog Posts
