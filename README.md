@@ -1,7 +1,7 @@
 ### Hi There, I'm Renuka Alai 👋  
 
 🚀 **AI/ML Engineer | Generative AI | NLP | Data Science**  
-Currently working at [Pacific Group of Companies]([https://www.indianic.com/](https://pacificgroupcompanies.com/)), with 4+ years of experience building scalable AI systems.  
+Currently working at [Pacific Group of Companies]((https://pacificgroupcompanies.com/)), with 4+ years of experience building scalable AI systems.  
 I specialize in **Generative AI, NLP, and Multi-Agent Systems**, solving real-world problems with intelligent automation.  
 
 
